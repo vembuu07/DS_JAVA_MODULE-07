@@ -3,9 +3,9 @@
 ## DATE: 29.08.2025  
 
 ### Developed by
-**Name:** ABISHA RANI S
+**Name:** VEMBARASAN P
 
-**Register Number:** 212224040012
+**Register Number:** 212223220123
 
 ## AIM:
 To write a Java program that detects a cycle in a linked list and returns the node where the cycle begins.  
